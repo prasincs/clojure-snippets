@@ -1,0 +1,18 @@
+* Clojure Snippets
+
+
+A collection of snippets that I use across projects. I keep the namespaces
+consistent and isolated, but the whole project is more like a dumping ground for
+scripts.
+
+** Usage
+#+BEGIN_SRC clojure
+lein repl
+#+END_SRC
+
+** License
+
+Copyright © 2015 Prasanna Gautam
+
+Distributed under the Eclipse Public License either version 1.0 or (at your
+option) any later version.
